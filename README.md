@@ -1,0 +1,1 @@
+Silly game where you drive a 2d truck through treacherous terrain, with a fragile load in the back. 1-4 players. Each player will control their own part of the truck (for example, one player controls throttle, the other controls brakes, etc)
